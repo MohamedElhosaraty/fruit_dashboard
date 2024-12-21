@@ -1,0 +1,2 @@
+const kSupabaseUrl = 'https://vabycghieclylznddmtk.supabase.co';
+const kSupabaseKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InZhYnljZ2hpZWNseWx6bmRkbXRrIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTczMzAwMTU1NCwiZXhwIjoyMDQ4NTc3NTU0fQ.hrjuyryr0j3VXB08u-Ld5Bwi7ThrbMvnJgkQUVYhRPI';
